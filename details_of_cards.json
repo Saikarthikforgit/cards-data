@@ -1,0 +1,12 @@
+{
+  "data":
+  [
+    {
+      "productName":"speakers",
+      "brandName":"boat",
+      "actualPrice":15000,
+      "discountPrice":10000,
+      "emailId":"owneremail@gmail.com"
+    }
+  ]
+}
